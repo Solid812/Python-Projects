@@ -37,7 +37,7 @@ class Product:
             print(f"{self.cart[i]}")
 
 #Main
-proionta = ["Μαύρους" , "Ρομά" , "Εβραίοι"]
+proionta = ["Bananas" , "Apples" , "Potatoes"]
 times = [5 , 0.5 , 30]
 
 store = Product(proionta , times)
